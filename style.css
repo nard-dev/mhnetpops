@@ -18,14 +18,14 @@
     border: 2px solid black;
 }
 .POP p{
-    background-color: rgba(0, 135, 245, 0.541); 
+    background-color: rgba(247, 247, 247, 0.541); 
     border: 1px solid black;  
-    color: white;
+    color: rgb(0, 0, 0);
     line-height: 35px;
     font-size: 20px;
     text-align: center;
-    
 }
+
 .text p{
     background-color: rgb(0, 80, 172);
     font-size: 22px;
